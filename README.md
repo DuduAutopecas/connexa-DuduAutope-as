@@ -280,3 +280,5 @@ A Parte 1 do roteiro da Atividade de Sprint (Etapas 3 e 4) detalha estes passos.
 ---
 
 *Modelo de repositório — Disciplina de Engenharia de Software — Projeto Connexa.*
+
+**Teste de colaboração**
